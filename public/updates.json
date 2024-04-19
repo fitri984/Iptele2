@@ -1,0 +1,20 @@
+{
+ "status": true
+ "data": [
+  {
+"date": "selasa, 9 April",
+"update": "> fix deposit
+> fix setppgroup
+> fix setppbot
+> fix qc
+> fix level
+> fix _autolevelup
+> added stikergif
+> update plugins
+> update database
+> update lib/Ichan
+> update handler.js
+> update config.js"
+  }
+ ]
+}
