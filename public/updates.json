@@ -4,6 +4,10 @@
     {
       "date": "selasa, 9 April",
       "update": "> fix deposit\n> fix setppgroup\n> fix setppbot\n> fix qc\n> fix level\n> fix _autolevelup\n> added stikergif\n> update plugins\n> update database\n> update lib/Ichan\n> update handler.js\n> update config.js"
+    },
+    {
+      "date": "minggu, 31 maret",
+      "update": "> fix qc\n> fix telegraph\n> fix schedule\n> fix autocleartmp\n> fix level\n> fix _autolevelup\n> added tutorial in plugins/main-menu2.js\n> update plugins\n> update schedule\n> update lib/Ichan\n> update handler.js"
     }
   ]
 }
