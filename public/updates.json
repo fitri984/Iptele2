@@ -2,6 +2,10 @@
   "status": true,
   "data": [
     {
+      "date": "Sabtu, 18 Mei 2024",
+      "update": "> fix all feature download\n> fix pinterest\n> fix cecan & cogan\n> fix capcut\n> fix stiker meme\n> fix remini\n> fix jadianime\n> fix storyanime\n> fix mediafire\n> update plugins\n> update lib"
+    },
+    {
       "date": "minggu, 21 April 2024",
       "update": "> fix download\n> fix stiker-dino\n> fix cecan & cogan\n> fix pinterest\n> fix meme\n> fix ytmp3\n> fix ytmp4\n> fix play\n> update plugins\n> update lib"
     },
